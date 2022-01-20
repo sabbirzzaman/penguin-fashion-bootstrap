@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* Custom Property */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+}
+
+h1, h2, h3 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.btn {
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+
+.shadow-p {
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.primary-clr {
+    color: #FABE4C;
+}
+
+.bg-grey {
+    background-color: #fffbf0;
+}
